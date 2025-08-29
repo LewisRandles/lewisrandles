@@ -11,3 +11,5 @@ When I’m not coding, you can find me exploring my other interests:
 - Rocketry: Following the latest in space exploration and rocketry innovations.
 
 - Meteorology: Ties in greatly with tracking planes, rockets and the stars.
+
+- Formula 1: The mixture of complex hardware design, aerodynamic design, and software analysis.
